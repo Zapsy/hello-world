@@ -1,2 +1,3 @@
 # hello-world
-the hello-world exercise 
+the hello-world exercise .
+Trying to understand gidhub.
